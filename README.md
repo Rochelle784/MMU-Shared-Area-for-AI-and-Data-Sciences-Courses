@@ -1,6 +1,6 @@
-# MMU MSc Data Science 25/26 Shared Area
+# MMU AI and Data Science Shared Area
 
-Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in MSc Data Science 25/26 at MMU.
+Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in AI and Data Science courses at MMU.
 
 ## How to contribute
 Everyone is encouraged to contribute and gain some basic familiarity with the GitHub/git processes.
